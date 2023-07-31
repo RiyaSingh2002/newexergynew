@@ -5,7 +5,6 @@ import facebook from '../../assets/facebook.png'; // Replace with the actual pat
 import instagram from '../../assets/instagram.png'; // Replace with the actual path to your image
 import twitter from '../../assets/twitter.png'; // Replace with the actual path to your image
 import linkedin from '../../assets/linkedin.png'; // Replace with the actual path to your image
-import image5 from '../../assets/image5.png'; // Replace with the actual path to your image
 
 const styles = {
   container: {
