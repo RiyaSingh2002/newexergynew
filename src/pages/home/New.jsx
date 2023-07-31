@@ -206,7 +206,7 @@ photography, LIDAR, and GPS.
       {/* Add more left side paragraphs with headings and content as needed */}
       {/* ... */}
 
-
+{console.log("hi")}
 
 
 
